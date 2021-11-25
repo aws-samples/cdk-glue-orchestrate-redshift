@@ -1,0 +1,7 @@
+README.md
+setup.py
+redshift_benchmark/redshift_benchmark.egg-info/PKG-INFO
+redshift_benchmark/redshift_benchmark.egg-info/SOURCES.txt
+redshift_benchmark/redshift_benchmark.egg-info/dependency_links.txt
+redshift_benchmark/redshift_benchmark.egg-info/requires.txt
+redshift_benchmark/redshift_benchmark.egg-info/top_level.txt
