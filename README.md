@@ -1,5 +1,5 @@
 
-# Redshift Benchmark
+# Use Glue workflow to orchestrate Redshift TPC-DS queries
 
 This CDK project will deploy a clean redshift cluster and a Glue workflow to perform the TPC-DS benchmark test including sequantially run 99 queries and concurrently run 99 queries(10 parallel level). It doesn't include tpcds data. Thus, you need to generate the data first and store it in S3. 
 
